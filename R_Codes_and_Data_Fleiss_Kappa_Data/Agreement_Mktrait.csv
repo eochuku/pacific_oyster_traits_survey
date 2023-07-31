@@ -1,0 +1,15 @@
+Prod,Prod_Trad,Trad
+Meat_size ,Meat_condition ,Meat_condition 
+Meat_condition ,Condition_index,Taste
+Consistency_size,Meat_size ,Colour (meat or shell)
+Condition_index,Consistency_size,Smell
+Hardness,Smell,Consistency_size
+Colour (meat or shell),Hardness,Texture
+Uniformity,Taste,Condition_index
+Smell,Uniformity,Meat_size 
+Cup_depth,Cup_depth,Uniformity
+Roundness,Brittleness,Hardness
+Taste,Colour (meat or shell),Tenderness
+Texture,Texture,Brittleness
+Brittleness,Roundness,Cup_depth
+Tenderness,Tenderness,Roundness
