@@ -10,6 +10,6 @@ The files included are:
 5. Supplementary data supporting the text  in the paper
 6. Complete deidentified version of the survey data.
 
-These data are made open-access under the licence: Creative Commons Attribution 4.0 International 
+These data are made open-access under the license: Creative Commons Attribution 4.0 International.
 License Deed - https://creativecommons.org/licenses/by/4.0/
-Leegal Code - https://creativecommons.org/licenses/by/4.0/legalcode
+Legal Code - https://creativecommons.org/licenses/by/4.0/legalcode
