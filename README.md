@@ -2,6 +2,9 @@
 
 This repository contains the data and analysis of a survey of desirable ad  undesirable traits of the Pacific oyster in the Australian Pacific oyster aquaculture industry (Chuku et al.).
 
+The data files are added as .csv and .xlsx files, and R codes are knitted to .html files.
+For best performance, download the files and open them on your local computer (.csv and .xlsx) or in a browser (.html).
+
 The files included are:
 1. Data and analytical outcomes for a Reflexive Thematic Analysis,
 2. Data and R codes for Proportional Odds Logit Models (POLM) of Pacific oyster trait preferences,
