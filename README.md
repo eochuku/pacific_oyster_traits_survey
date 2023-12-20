@@ -11,6 +11,7 @@ The files included are:
 3. Data  (predicted probabilities)  from the POLM and R codes for developing a stacked circular bar chart, and
 4. Data and R codes for performing Fleiss' Kappa analysis of concordance.
 5. Complete de-identified version of the survey data
+6. Arithmetic estimation of Industry-Acclaimed Trait Importance (IATI) Index
 
 These data are made open-access under the license: Creative Commons Attribution 4.0 International.
 License Deed - https://creativecommons.org/licenses/by/4.0/
