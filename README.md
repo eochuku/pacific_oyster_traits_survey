@@ -1,6 +1,6 @@
-# pacific_oyster_traits_survey
+# Pacific oyster traits survey (economically important biophysical traits)
 
-This repository contains the data and analysis of a survey of desirable ad  undesirable traits of the Pacific oyster in the Australian Pacific oyster aquaculture industry (Chuku et al.).
+This repository contains the data and analysis of a survey of desirable and  undesirable traits of the Pacific oyster in the Australian Pacific oyster aquaculture industry (Chuku et al.).
 
 The data files are added as .csv and .xlsx files, and R codes are knitted to .html files.
 For best performance, download the files and open them on your local computer (.csv and .xlsx) or in a browser (.html).
